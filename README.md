@@ -4,4 +4,6 @@
 <p>The Retailer Database system is a powerful MySQL based database system that will allow users to insert and delete various products from within the store’s inventory.
 The Database will have 3 distinct panels: one each for inventory insertion/deletion, shipping, and profit/loss. About 8 variables are instantiated within the first panel and the other 2 proceeding panels must take in values regarding item quantity sold, item price, and item availability.</p>
 
-<img> src = "Inventory%20Management%20System/process.JPG" width="100">
+
+
+![activityDiagram](https://user-images.githubusercontent.com/40185448/90270403-fe904e80-de0e-11ea-94eb-6ccb8e2c7372.JPG)
